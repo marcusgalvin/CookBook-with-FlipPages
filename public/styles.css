@@ -1,0 +1,19 @@
+
+
+.works {
+    display: block;
+    background: yellow;
+    border: 1px solid black;
+}
+.works a {
+    color: white;
+}
+.dosentWork {
+    display: block !important;
+    color: beige;
+    background: hsla(0, 98%, 49%, 0.4);
+    border: 1px solid beige;
+}
+.dosentWork h2 {
+    color: #000000;
+}
